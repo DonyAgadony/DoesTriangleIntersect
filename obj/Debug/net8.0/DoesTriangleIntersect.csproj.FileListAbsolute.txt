@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\DanielHaMelech\DoesTriangleIntersect\obj\Debug\net8.0\DoesTriangleIntersect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DanielHaMelech\DoesTriangleIntersect\obj\Debug\net8.0\DoesTriangleIntersect.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DanielHaMelech\DoesTriangleIntersect\obj\Debug\net8.0\DoesTriangleIntersect.AssemblyInfo.cs
+C:\Users\User\Desktop\DanielHaMelech\DoesTriangleIntersect\obj\Debug\net8.0\DoesTriangleIntersect.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DanielHaMelech\DoesTriangleIntersect\bin\Debug\net8.0\DoesTriangleIntersect.exe
+C:\Users\User\Desktop\DanielHaMelech\DoesTriangleIntersect\bin\Debug\net8.0\DoesTriangleIntersect.deps.json
+C:\Users\User\Desktop\DanielHaMelech\DoesTriangleIntersect\bin\Debug\net8.0\DoesTriangleIntersect.runtimeconfig.json
+C:\Users\User\Desktop\DanielHaMelech\DoesTriangleIntersect\bin\Debug\net8.0\DoesTriangleIntersect.dll
+C:\Users\User\Desktop\DanielHaMelech\DoesTriangleIntersect\bin\Debug\net8.0\DoesTriangleIntersect.pdb
+C:\Users\User\Desktop\DanielHaMelech\DoesTriangleIntersect\obj\Debug\net8.0\DoesTriangleIntersect.dll
+C:\Users\User\Desktop\DanielHaMelech\DoesTriangleIntersect\obj\Debug\net8.0\refint\DoesTriangleIntersect.dll
+C:\Users\User\Desktop\DanielHaMelech\DoesTriangleIntersect\obj\Debug\net8.0\DoesTriangleIntersect.pdb
+C:\Users\User\Desktop\DanielHaMelech\DoesTriangleIntersect\obj\Debug\net8.0\DoesTriangleIntersect.genruntimeconfig.cache
+C:\Users\User\Desktop\DanielHaMelech\DoesTriangleIntersect\obj\Debug\net8.0\ref\DoesTriangleIntersect.dll
